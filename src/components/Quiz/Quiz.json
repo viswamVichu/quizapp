@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "questions":"what is capital of spain",
+        "options":["Berlin","Madrid","Paris","Tokyo"],
+        "correctOptions":"Madrid"
+    },
+        
+    {
+        "id":2,
+        "questions":"Who is the top scorer in football?",
+        "options":["Messi","Maradona","Ronaldo","Pele"],
+        "correctOptions":"Ronaldo"
+    },
+    {
+        "id":3,
+        "questions":"Which country is known as the Land of the Rising Sun?",
+        "options":["spain","Japan","India","Germany"],
+        "correctOptions":"Japan"
+    },
+    {
+        "id":4,
+        "questions":"Who was the first person to walk on the Moon?",
+        "options":[" Neil Armstrong"," Buzz Aldrin","Yuri Gagarin","Michael Collins"],
+        "correctOptions":" Neil Armstrong"
+    }
+]
